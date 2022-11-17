@@ -21,8 +21,8 @@ mise en page et des styles Word. Pour y parvenir, vous devez :
 
 
 ## Fichiers contenus dans le répertoire
-MaiGiangTien_GuecoDoanLuisPhillip_Lab2.docx
-MaiGiangTien_GuecoDoanLuisPhillip_Lab2__revise.docx
+MaiGiangTien_GuecoDoanLuisPhillip_Lab2.docx  
+MaiGiangTien_GuecoDoanLuisPhillip_Lab2__revise.docx  
 lab_02
 
 
