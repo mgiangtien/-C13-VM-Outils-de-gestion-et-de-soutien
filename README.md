@@ -5,7 +5,7 @@ ___
 
 Présenté par Godefroy Borduas
 
-## Lab 2 - Word
+## Lab 4 - Markdown
 
 **Objectif du laboratoire**
 
