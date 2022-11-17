@@ -18,7 +18,7 @@ Pour y parvenir, vous devez :
 
 
 ## Fichiers contenus dans le répertoire
-Mai_GiangTien_Lab1.docx
+Mai_GiangTien_Lab1.docx  
 lab_01.pdf
 
 ## Statut du projet
