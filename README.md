@@ -5,7 +5,7 @@ ___
 
 Présenté par Godefroy Borduas
 
-## Lab 4 - Markdown
+## Lab 4 - Créer un fichier de renseignement
 
 **Objectif du laboratoire**
 
