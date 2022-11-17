@@ -25,8 +25,7 @@ sont expliqués plus bas.
 
 
 ## Fichiers contenus dans le répertoire
-GiangTienMai_Lab4.md  
-GiangTienMai_Lab4.pdf  
+GiangTienMai_Lab4.md   
 lab_04.pdf
 
 
