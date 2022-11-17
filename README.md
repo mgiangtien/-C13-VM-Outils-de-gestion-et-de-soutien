@@ -15,7 +15,8 @@ mise en page et des styles Word. Pour y parvenir, vous devez :**
 - Utiliser des outils de style et de mise en page du logiciel approprié
 
 ## Fichiers contenus dans le répertoire
-Mai_GiangTien_ProjetWord.docx
+Mai_GiangTien_ProjetWord.docx  
+projet_word.pdf
 
 ## Statut du projet
 ![Badge](https://img.shields.io/badge/Projet%20Word-Termin%C3%A9-brightgreen)
