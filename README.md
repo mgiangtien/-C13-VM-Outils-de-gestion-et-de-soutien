@@ -18,7 +18,7 @@ Dans ce laboratoire, vous devez créer une présentation des fonctions mathémat
 
 
 ## Fichiers contenus dans le répertoire
-GiangTien_Mai_Lab8.xlsx
+GiangTien_Mai_Lab8.xlsx  
 lab_08.pdf
 
 
