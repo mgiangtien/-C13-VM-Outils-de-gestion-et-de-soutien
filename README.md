@@ -18,8 +18,9 @@ sur une utilisation de styles variés qui recouvrent l’ensemble de la matière
 respect des spécificités de la page Wikipédia originale n’a pas d’importance.
 
 ## Fichiers contenus dans le répertoire
-Mai_GiangTien_ProjetMarkdown
-Janet_Varney_by_Gage_Skidmore.jpg
+Mai_GiangTien_ProjetMarkdown.7z  
+projet_markdown.pdf
+
 
 ## Statut du projet
 ![Badge](https://img.shields.io/badge/Projet%20Markdown-Termin%C3%A9-brightgreen)
