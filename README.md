@@ -18,7 +18,8 @@ tableau et de graphique. Pour y parvenir, vous devez :
 
 
 ## Fichiers contenus dans le répertoire
-Mai_GiangTien_Lab6.xlsx
+Mai_GiangTien_Lab6.xlsx  
+lab_06
 
 
 ## Statut du projet
