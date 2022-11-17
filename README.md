@@ -19,7 +19,6 @@ Pour y parvenir, vous devez :
 
 ## Fichiers contenus dans le répertoire
 Mai_GiangTien_Lab1.docx
-Mai_GiangTien_Lab1.pdf
 
 ## Statut du projet
 ![Badge](https://img.shields.io/badge/Lab%201%20--%20Word-Termin%C3%A9-brightgreen)
